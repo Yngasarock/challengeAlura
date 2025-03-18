@@ -19,7 +19,7 @@ Este proyecto es una aplicación sencilla en la que puedes ingresar nombres de a
 ```bash
 git clone https://github.com/Yngasarock/challengeAlura.git
 ```
-    o
+o
     - Dar clic en en botón "Code".
     - Descargar el proyecto con la opción .zip.
 
