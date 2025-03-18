@@ -17,7 +17,7 @@ Este proyecto es una aplicación sencilla en la que puedes ingresar nombres de a
 📦 Instalación
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu_usuario/sorteo-amigos.git
+git clone https://github.com/Yngasarock/challengeAlura.git
 ```
 
 2. Abre el archivo index.html en tu navegador favorito.
