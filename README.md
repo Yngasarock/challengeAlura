@@ -19,6 +19,11 @@ Este proyecto es una aplicación sencilla en la que puedes ingresar nombres de a
 ```bash
 git clone https://github.com/Yngasarock/challengeAlura.git
 ```
+  o
+
+  - Ingresa a: https://github.com/Yngasarock/challengeAlura
+  - Dar clic en en botón "Code".
+  - Descargar el proyecto con la opción .zip.
 
 2. Abre el archivo index.html en tu navegador favorito.
 
